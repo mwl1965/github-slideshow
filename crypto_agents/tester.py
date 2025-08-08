@@ -1,5 +1,5 @@
-from agents.monitor import CryptoMonitor
-from agents.trader import TradingAgent
+from crypto_agents.monitor import CryptoMonitor
+from crypto_agents.trader import TradingAgent
 
 class MockCryptoMonitor(CryptoMonitor):
     """

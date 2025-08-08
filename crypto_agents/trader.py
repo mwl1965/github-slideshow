@@ -1,4 +1,4 @@
-from agents.monitor import CryptoMonitor
+from crypto_agents.monitor import CryptoMonitor
 
 class TradingAgent:
     """
